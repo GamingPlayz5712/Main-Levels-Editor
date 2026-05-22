@@ -1,0 +1,10 @@
+{
+    "geode": "3.0.0-beta.1",
+    "id": "com.delish.FangameCreator",
+    "version": "1.0.0",
+    "name": "Fangame Creator",
+    "developer": "DelishCreator",
+    "description": "Easily manage, edit, and create levels and edit achievements inside Geometry Dash. and if you need to create a new icon, download the mod called More Icons",
+    "repository": "https://github.com/GamingPlayz5712/Main-Levels-Editor",
+    "dependencies": []
+}
